@@ -1,2 +1,3 @@
-Hi, I am a developer that likes Python, Linux, And C.  
-My goal is to make my own Gnu/Linux Distro 🐧  
+sup
+I like c++ and Linux/FreeBSD.
+Arch bad (IN MY OPINION)
